@@ -1,0 +1,18 @@
+{
+    "include_words": [
+        "てぃけあ",
+        "kgtkr",
+        "tkr",
+        "水死",
+        "てけら"
+    ],
+    "exclude_accounts": [
+        "tkr_421297"
+    ],
+    "self_accounts": [
+        "kgtkr",
+        "kgtkr_game",
+        "kgtkr_key",
+        "kgtkr_tech"
+    ]
+}
