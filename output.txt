@@ -1,1 +1,1 @@
-てぃけあ OR てぃけら OR kgtkr OR tkr OR 水死 OR てけら OR とくら OR タカラ OR #教えてtkrくん OR ちぇけら -from:kgtkr -@kgtkr -from:kgtkr_game -@kgtkr_game -from:kgtkr_key -@kgtkr_key -from:kgtkr_tech -@kgtkr_tech -@tkr_421297 -@tkr_602_1023
+てぃけあ OR てぃけら OR kgtkr OR tkr OR 水死 OR てけら OR とくら OR #教えてtkrくん OR ちぇけら -from:kgtkr -@kgtkr -from:kgtkr_game -@kgtkr_game -from:kgtkr_key -@kgtkr_key -from:kgtkr_tech -@kgtkr_tech -@tkr_421297 -@tkr_602_1023
