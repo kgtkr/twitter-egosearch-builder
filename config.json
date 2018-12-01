@@ -8,10 +8,12 @@
         "てけら",
         "とくら",
         "タカラ",
-        "#教えてtkrくん"
+        "#教えてtkrくん",
+        "ちぇけら"
     ],
     "exclude_accounts": [
-        "tkr_421297"
+        "tkr_421297",
+        "tkr_602_1023"
     ],
     "self_accounts": [
         "kgtkr",
