@@ -12,7 +12,9 @@
     ],
     "exclude_accounts": [
         "tkr_421297",
-        "tkr_602_1023"
+        "tkr_602_1023",
+        "tkr_422287",
+        "tkr_000000"
     ],
     "self_accounts": [
         "kgtkr",
