@@ -33,14 +33,16 @@
         "tkr_602_1023",
         "tkr_422287",
         "tkr_000000",
-        "hamer_tkr"
+        "hamer_tkr",
+        "tkr_en"
     ],
     "self_accounts": [
         "kgtkr",
         "kgtkr_game",
         "kgtkr_key",
         "kgtkr_tech",
-        "kgtkr_nyan"
+        "kgtkr_nyan",
+        "kgtkr_sub"
     ],
     "word_limit": 10
 }
