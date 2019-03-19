@@ -2,12 +2,11 @@
     "include_words": [
         [
             [
-                "さいてけ",
                 "kgtkr",
                 "tkr",
                 "水死",
-                "#教えてtkrくん",
-                "てけちゃん"
+                "てけちゃん",
+                "ちぇけ"
             ]
         ],
         [
@@ -44,5 +43,5 @@
         "kgtkr_nyan",
         "kgtkr_sub"
     ],
-    "word_limit": 10
+    "word_limit": 8
 }
