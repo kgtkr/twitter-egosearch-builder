@@ -15,7 +15,8 @@
                 "てぃけら",
                 "てけら",
                 "ちぇけら",
-                "てぇけら"
+                "てぇけら",
+                "てけ"
             ],
             [
                 "",
@@ -23,15 +24,15 @@
                 "くん",
                 "君",
                 "にゃん",
-                "たん"
+                "たん",
+                "にゃ"
             ]
         ]
     ],
     "exclude_accounts": [
-        "tkr_602_1023",
-        "tkr_820277",
         "hamer_tkr",
-        "tkr_en"
+        "tkr_en",
+        "tkr_520217"
     ],
     "self_accounts": [
         "kgtkr",
@@ -39,7 +40,8 @@
         "tk3yr",
         "kgtkr_lab",
         "tktknyan",
-        "kgtkr_sub"
+        "kgtkr_sub",
+        "kgtkr_fms"
     ],
     "word_limit": 8
 }
